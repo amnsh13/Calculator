@@ -1,0 +1,3 @@
+#It is a simple calculator application.+
+#It does not contains KeyListener i.e no numbers key will work.You will have to manually press the button on the screen.
+#It just you regular average calculator with some flaws....
